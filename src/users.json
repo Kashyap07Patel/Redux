@@ -1,0 +1,45 @@
+{
+    "details": [{
+            "id": 1,
+            "name": "Jeff",
+            "email": "jeff@gmail.com",
+            "age": 20,
+            "city": "Pune"
+        },
+        {
+            "id": 2,
+            "name": "Rohit",
+            "email": "rohit@gmail.com",
+            "age": 22,
+            "city": "Noida"
+        },
+        {
+            "id": 3,
+            "name": "Amruta",
+            "email": "amruta@gmail.com",
+            "age": 22,
+            "city": "Navi Mumbai"
+        },
+        {
+            "id": 4,
+            "name": "Naveen",
+            "email": "naveen@gmail.com",
+            "age": 22,
+            "city": "Indore"
+        },
+        {
+            "id": 5,
+            "name": "Samiksha",
+            "email": "samiksha@gmail.com",
+            "age": 22,
+            "city": "Pune"
+        },
+        {
+            "id": 6,
+            "name": "Ranga",
+            "email": "ranga@gmail.com",
+            "age": 21,
+            "city": "Banglore"
+        }
+    ]
+}
